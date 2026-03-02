@@ -5,3 +5,4 @@ branch1 change - line 2
 branch1 feature - line 4
 branch1: fourth commit - feature A
 branch1: fifth commit - feature B
+branch1: sixth commit - feature C
